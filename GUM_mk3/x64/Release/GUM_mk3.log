@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\brian\source\repos\MC_code_vis_studio_proj\GUM_mk3\main.cpp(25,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\MC_code_vis_studio_proj\GUM_mk3\main.cpp(26,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\MC_code_vis_studio_proj\GUM_mk3\main.cpp(27,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\MC_code_vis_studio_proj\GUM_mk3\main.cpp(28,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\MC_code_vis_studio_proj\GUM_mk3\main.cpp(29,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 953 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GUM_mk3.vcxproj -> C:\Users\brian\source\repos\MC_code_vis_studio_proj\x64\Release\GUM_mk3.exe

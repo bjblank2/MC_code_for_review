@@ -1,0 +1,7 @@
+Phase: AUSTComposition: 1000, 500, 500
+MC passes: 100
+Beginning MC EQ run using ALGO_7
+EQ passes: 10000, EQ Temp: 0.001
+-0.0050854, -0.0050854
+SRO: 0
+-0.00506282, -0.00506282
